@@ -14,6 +14,8 @@ jobs:
     - name: Sync files
       uses: SamKirkland/FTP-Deploy-Action@4.0.0
       with:
-        server: test.naptechgames.com
+        server: ftp.naptechgames.com
         username: sohel@naptechgames.com
         password: 4*gcO)Deyq1`
+        server-dir: /test.naptechgames.com/public_html/
+  
