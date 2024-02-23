@@ -17,4 +17,4 @@ jobs:
         server: test.naptechgames.com
         username: sohel@naptechgames.com
         password: 4*gcO)Deyq1`
-        server-dir: /test.naptechgames.com/public_html/
+        server-dir: /public_html/
